@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Rosie 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F70076&width=435&lines=Full-stack+junior+web+developer;Passionate+about+coding;Obssessed+with+learning)](https://git.io/typing-svg)
 
 <!--
 **Rosie-Bradshaw/Rosie-Bradshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
