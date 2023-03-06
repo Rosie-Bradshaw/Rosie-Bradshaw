@@ -1,8 +1,12 @@
 ### Hi, I'm Rosie 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F70076&width=435&lines=Full-stack+junior+web+developer;Passionate+about+coding;Obssessed+with+learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F70076&width=435&lines=Full-stack+junior+web+developer;Passionate+about+coding;Obsessed+with+learning)](https://git.io/typing-svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosie-Bradshaw&hide_progress=true)](https://github.com/Rosie-Bradshaw/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rosie-Bradshaw&theme=dark&mode=weekly)](https://git.io/streak-stats)
+
+
 
 <!--
 **Rosie-Bradshaw/Rosie-Bradshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
