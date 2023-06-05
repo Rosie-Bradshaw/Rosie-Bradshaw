@@ -10,8 +10,6 @@ I am looking for a junior position in a dynamic, purposeful and diligent team, w
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosie-Bradshaw&hide_progress=true)](https://github.com/Rosie-Bradshaw/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rosie-Bradshaw&theme=dark&mode=weekly)](https://git.io/streak-stats)
-
 
 
 <!--
