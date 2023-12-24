@@ -4,7 +4,7 @@
 
 I am a full-stack web developer with solid experience in Marketing and Business Operations. Fully understanding both company and customer needs has given me a clear advantage when developing intuitive yet result-oriented user experiences.
 
-I am looking for a position in a dynamic, purposeful and diligent team, who never shy away from a challenge, to continue to improve my skills while building meaningful projects.
+I work best in dynamic, purposeful and diligent teams, who never shy away from a challenge, where I can continue to improve my skills while building meaningful projects.
 
 To see some of the projects I have been working on recently, see my [website](https://www.rosiebradshaw.com).
 
